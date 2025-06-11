@@ -352,8 +352,13 @@ body {
         font-size: 1.2rem;
     }
 
+    /* Ajustes para os botões em mobile */
     .btn-primary {
-        display: none;
+        padding: 1rem 2rem;
+        font-size: 0.9rem;
+        width: 100%;
+        text-align: center;
+        margin: 0.5rem 0;
     }
 
     /* Animação do botão do menu */
